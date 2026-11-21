@@ -76,4 +76,4 @@ If the app ever changes how it handles information, this page will be updated an
 
 ## 10. Contact
 
-Questions? Email **apgiiith@gmail.com**.
+Questions? Email **apgiiith@gmail.com** (the app's "Email us" button opens your own email app). If you write to us, we only see your email address and what you send, and use it only to reply. It's never shared or sold.
